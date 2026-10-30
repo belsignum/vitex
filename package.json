@@ -1,6 +1,6 @@
 {
   "name": "@belsignum/vitex",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A configurable Vite configuration builder class optimized for modular frontend setups such as TYPO3 extensions.",
   "type": "module",
   "main": "./src/Vitex.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andreas-Sommer/vitex.git"
+    "url": "git+https://github.com/belsignum/vitex.git"
   },
   "keywords": [
     "vite",
@@ -23,7 +23,7 @@
   "author": "Andreas Sommer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Andreas-Sommer/vitex/issues"
+    "url": "https://github.com/belsignum/vitex/issues"
   },
-  "homepage": "https://github.com/Andreas-Sommer/vitex#readme"
+  "homepage": "https://github.com/belsignum/vitex#readme"
 }
